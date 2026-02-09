@@ -1,4 +1,8 @@
-Legacy Logistics Database Optimization - Technical Report
+## Student Information
+Name: Ali  
+Roll No: 24G-BCS030  
+Course: Database Systems  
+Project: Legacy Logistics Optimization Technical Report
 
 Executive Summary
 Performance Improvement
